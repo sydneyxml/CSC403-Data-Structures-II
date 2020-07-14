@@ -1,0 +1,5 @@
+Turing 99 95
+Goedel 89 92
+Dijkstra 75 82
+Hopper 97 92
+Johnson 90 95
